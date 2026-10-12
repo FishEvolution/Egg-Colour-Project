@@ -1,0 +1,11 @@
+Read Me
+
+Mapping.R is the code file used for the analyses in R.
+
+FishEggColourForMapping.csv - Column 1 = Species name. Column 2 = Pigment. Column 3-7 = Each individual pigment as present (1) / absent (0).
+
+MapNames.csv - List of species to loop through when generating the maps.
+
+Fish_Raster_Stack - Map files. 
+
+.rds files - Files for each colour after the map has been created.
