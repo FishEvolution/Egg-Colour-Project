@@ -1,0 +1,20 @@
+READ ME
+
+Path Analysis.R is the code file used for the analyses in R.
+
+ConsensusTree.nex - The consensus tree.
+
+GroupNames.csv states all species names in the analysis.
+
+FishEggs.csv: 
+Column 1 = Species name. 
+Column 2-4 = Genus, Family and Order. 
+Column 5 = Pigment State. 
+Column 6 = Development Score (0 = Demersal, 1 = Pelagic). 
+Column 7 = Value for average depth in metres. 
+Column 8 = Value for average surface temperature in degrees Celcius. 
+Column 9 = Value for average oxygen concentration in μmol/m3. 
+Column 10 = Value for average chlorophyll concentration in μmol/m3.  
+Column 11 = PostCare Parental Care score (0 = No Care, 1 = External Parental Care, 2 = Internal Parental Care). 
+Columns 12 & 13 = PC1 and PC2 values generated from PCA for oxygen and temperature. 
+NA represents missing data. 
