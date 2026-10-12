@@ -1,0 +1,9 @@
+READ ME
+
+Ancestral State Reconstruction.R is the code file used for the analyses in R.
+
+GroupNames.csv states all species names in the analysis. The end of the file represents which part of the project it is used in:
+
+ConsensusTree.nex - The consensus tree.
+
+AncestralStates.csv - Column 1: Species Names. Column 2: Egg Colour State where 1 = Transparent, 2 = Carotenoid, 3 = Green, 4 = Guanine and 5 = Melanin.
