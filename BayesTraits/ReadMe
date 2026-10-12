@@ -1,0 +1,9 @@
+READ ME
+
+BayesTraits.R is the code file used for the analyses in R.
+
+GroupNames.csv states all species names in the analysis. Tree.trees - Tree file for the BayesTraits analysis.
+
+BayesTraits.csv - Column 1 = Species Name. Column 2 = Egg Colour (T = Transparent, C = Carotenoid, G = Green, W = Guanine and M = Melanin).
+
+There is one file for BayesTraits input (EggColour.txt) and two files for the results of the BayesTraits analyses (.Log and .Schedule). BayesTraitsV4.exe is required to run BayesTraits.
