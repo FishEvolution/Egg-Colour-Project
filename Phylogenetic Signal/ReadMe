@@ -1,0 +1,7 @@
+READ ME
+
+Phylogenetic Signal.R is the code file used for the analyses in R.
+
+ConsensusTree.nex - The consensus tree.
+
+PhyloSignal.csv: Column 1 = A list of the species. Column 2 = Their corresponding pigments.
