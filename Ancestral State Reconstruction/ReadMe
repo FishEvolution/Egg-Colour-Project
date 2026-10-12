@@ -2,7 +2,7 @@ READ ME
 
 Ancestral State Reconstruction.R is the code file used for the analyses in R.
 
-GroupNames.csv states all species names in the analysis. The end of the file represents which part of the project it is used in:
+GroupNames.csv states all species names in the analysis.
 
 ConsensusTree.nex - The consensus tree.
 
