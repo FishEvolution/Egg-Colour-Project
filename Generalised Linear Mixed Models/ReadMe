@@ -1,0 +1,22 @@
+READ ME
+
+Generalised Linear Mixed Models.R is the code file used for the analyses in R.
+
+For all files a 1 at the end represents the analyses / files used on the smaller sample size where the eggs that matched the colour of the adults were excluded.
+
+FishEggs.csv: 
+Column 1 = Species name. 
+Column 2-4 = Genus, Family and Order. 
+Column 5 = Pigment State. 
+Column 6 = Whether the egg colour matches the adult colour. 
+Column 7 = Development Score (0 = Demersal, 1 = Pelagic). 
+Column 8 = Value for average depth in metres. 
+Column 9 = Value for average surface temperature in degrees Celcius. 
+Column 10 = Value for average oxygen concentration in μmol/m3. 
+Column 11 = Value for average chlorophyll concentration in μmol/m3. 
+Column 12 = Latitude in degrees. 
+Column 13 = PostCare Parental Care score (0 = No Care, 1 = External Parental Care, 2 = Internal Parental Care). 
+Columns 14 & 15 = PC1 and PC2 values generated from PCA for oxygen and temperature. 
+NA represents missing data. 
+
+All results of each model are shown with the pigment and variable tested in the file name.
