@@ -18,5 +18,3 @@ Column 12 = Latitude in degrees.
 Column 13 = PostCare Parental Care score (0 = No Care, 1 = External Parental Care, 2 = Internal Parental Care). 
 Columns 14 & 15 = PC1 and PC2 values generated from PCA for oxygen and temperature. 
 NA represents missing data. 
-
-All results of each model are shown with the pigment and variable tested in the file name.
