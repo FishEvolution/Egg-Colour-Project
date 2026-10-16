@@ -73,6 +73,6 @@ F) Path Analysis
 
 G) Phylogenetic Signal
 
-Import the PhyloSignal.csv file that contains all species and their associated pigment, and a consensus tree.
+1. Import the PhyloSignal.csv file that contains all species and their associated pigment, and a consensus tree.
 2. Create a column for each pigment with a 0 for pigment not present and a 1 for pigment present.
 3. Perform a PhyloD analysis on each colour individually.
