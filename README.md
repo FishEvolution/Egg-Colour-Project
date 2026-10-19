@@ -52,8 +52,10 @@ C) Ancestral State Reconstruction and Phylogenetic Signal
 D) Mapping
 
 1. Create a list of the five colours being mapped (Transparent, Carotenoid, Green, Guanine, Melanin).
-2. For each colour, for all species, create a map of all points of occurrence, with each species shown in a different colour, using sp_occurrence in geodata and.
-1. Create a ggplot beeswarm plot of environmental variables (y) against pigment (x).
+2. Convert IUCN range maps into a 0.5⁰ equal-area presence-absence grid. 
+3. Count the proportions of each pigment for the species living in each grid cell and apply it to a raster using the “app” function in terra. Any cell without data was categorised as NA and the proportion of all eggs in an area represented by that colour was then visualised. 
+4. Plot this on a map of the world using the “ne_countries” function in rnaturalearth, transformed into a Lambert Cylindrical Equal-Area projection using the “st_transform” function in sf. 
+5. Create a ggplot beeswarm plot of environmental variables (y) against pigment (x).
 
 E) Generalised Linear Mixed Models
 
