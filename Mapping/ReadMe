@@ -6,6 +6,6 @@ FishEggColourForMapping.csv - Column 1 = Species name. Column 2 = Pigment. Colum
 
 MapNames.csv - List of species to loop through when generating the maps.
 
-Fish_Raster_Stack - Map files. 
+The raster stack file is obtainable from the IUCN.
 
 .rds files - Files for each colour after the map has been created.
